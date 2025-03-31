@@ -46,4 +46,4 @@ Es cuando una clase depende de otra clase ya sea por estructura o por parametros
 
 ## Cohesion
 
-Define 
+Define  la 
